@@ -67,11 +67,11 @@ This will launch a Gradio web interface where users can chat with your AI repres
 - **Models**: Adjust which models are used by changing the model parameters in the API calls
 
 ## Requirements
-- python-dotenv==1.0.0
-- openai==1.3.0
-- pypdf==3.17.1
-- gradio==4.19.2
-- pydantic==2.5.2
+- python-dotenv
+- openai
+- pypdf
+- gradio
+- pydantic
 
 ## Future Improvements
 - Add support for multiple profiles
